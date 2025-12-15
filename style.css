@@ -130,7 +130,8 @@ h3{
 	width: 100%;
 	grid-template-columns: repeat(3,1fr);
 	grid-template-rows: 1fr;
-	grid-template-areas: "card-1 card-2 card-3";
+	grid-template-areas: "card-1 card-2 card-3"
+	"card-4 card-5 .";
 	gap: 1em;
 }
 .grid-container .card:hover{
