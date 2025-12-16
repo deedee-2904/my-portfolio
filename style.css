@@ -89,6 +89,10 @@ h3{
 	font-size: 1.5rem;
 }
 
+ul{
+	list-style-type: "⭑ ";
+}
+
 .text-container p {
 	margin: .75em 0 1em 0;
 	font-size: 1.25rem;
