@@ -4,7 +4,7 @@
 	--base-color: #fffff;
 	--text-color: green;
 	--primary-color:#e0f6c5;
-	--secondary-color:#8D8DFF;
+	--secondary-color:#e3c361;
 	--color-1:#ffffff;
 	--color-2:#ebf7d9;
 	--color-3:#ffffff;
@@ -91,6 +91,10 @@ h3{
 
 ul{
 	list-style-type: "⭑ ";
+}
+
+.title{
+	text-align: center;
 }
 
 .text-container p {
