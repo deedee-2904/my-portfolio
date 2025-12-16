@@ -4,7 +4,7 @@
 	--base-color: #fffff;
 	--text-color: green;
 	--primary-color:#e0f6c5;
-	--secondary-color:#e3c361;
+	--secondary-color:#000000;
 	--color-1:#ffffff;
 	--color-2:#ebf7d9;
 	--color-3:#ffffff;
@@ -168,12 +168,13 @@ ul{
 footer {
 	padding-bottom: 1.5em;
 	text-align: center;
+	color: var(--secondary-color);
 }
 
 footer a {
 	margin: 0 1em;
 	text-decoration: none;
-	color: var(--text-color);
+	color: var(--secondary-color);
 }
 
 footer a:hover {
